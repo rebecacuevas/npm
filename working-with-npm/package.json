@@ -1,0 +1,15 @@
+{
+  "name": "workingwithnpm",
+  "version": "1.0.0",
+  "description": "first project working with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rebeca Cuevas",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.2"
+  }
+}
